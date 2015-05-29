@@ -1,4 +1,4 @@
-#Code snippets
+#Code Snippets
 Free use - have fun
 
 ###Available
