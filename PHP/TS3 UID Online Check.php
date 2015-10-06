@@ -9,5 +9,6 @@ function isUIDConnected($uid)
  foreach($clients['data'] as $client) {
   if($client['client_nickname'] == $userTSName["data"]["name"]) return 1; 
  }
+ return 0;
 }
 ?>
